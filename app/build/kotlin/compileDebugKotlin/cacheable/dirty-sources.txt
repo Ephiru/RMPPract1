@@ -1,0 +1,2 @@
+C:\Users\Ephiru\Downloads\zd1_Kolyasnikov-main\app\src\main\java\com\example\first_zd_practica\MainActivity.kt
+C:\Users\Ephiru\Downloads\zd1_Kolyasnikov-main\app\src\main\java\com\example\first_zd_practica\TwoScreen.kt
